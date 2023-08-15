@@ -1,2 +1,3 @@
-# Code for CIKM 2023 paper:
-Mulco: Recognizing Chinese Nested Named Entities through Multiple Scopes
+# Code for Mulco: Recognizing Chinese Nested Named Entities through Multiple Scopes (CIKM2023)
+
+Data set ChiNesE is included
